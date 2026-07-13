@@ -50,4 +50,4 @@ This dashboard demonstrates how data visualization can support proactive mainten
 
 ## Dashboard Preview
 
-*(Dashboard screenshot coming soon.)*
+![Equipment Dashboard](equipment-dashboard-preview.png)
